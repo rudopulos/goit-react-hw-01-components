@@ -1,0 +1,40 @@
+.FriendItem_item__Ky0Uz {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 45px;
+    border: 2px solid #000;
+    width: 420px;
+    background-color: #fefff7;
+    box-shadow: 1px 1px 3px 1px #575757;
+    border-radius: 7px;
+    padding: 15px;
+    transition: transform 0.3s ease;
+  }
+  
+  .FriendItem_item__Ky0Uz:hover {
+    transform: scale(1.02);
+    background-color: #eef1da;
+  }
+  
+  .FriendItem_statusOnline__uwb-G {
+    width: 25px;
+    height: 25px;
+    background-color: #08aa08;
+    border-radius: 50%;
+  }
+  
+  .FriendItem_statusOffline__uwb-G {
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 50%;
+  }
+  
+  .FriendItem_avatar__2Ro1N {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+  }
+  

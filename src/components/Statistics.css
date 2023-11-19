@@ -1,0 +1,39 @@
+/* Statistics.css */
+
+.statistics {
+    margin-top: 30px;
+    padding-top: 20px;
+    border: 1px solid #ccc;
+    width: 400px;
+    text-align: center;
+    box-shadow: 1px 1px 3px 1px #575757;
+    background-color: beige;
+  }
+  
+  .title {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    color: #434040;
+  }
+  
+  .stat-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+  }
+  
+  .item {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .file-type {
+    font-weight: bold;
+    color: #434040;
+  }
+  
